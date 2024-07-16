@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ana-voineag-85a37423b/](https://www.linkedin.com/in/ana-voineag-85a37423b/)
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/AnaMariaVoineag/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Angular, Unity, C#, C++ Java**
 
