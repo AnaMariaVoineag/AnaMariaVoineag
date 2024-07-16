@@ -6,17 +6,17 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
-- 🔭 I’m currently working on [Netflix-Clone](https://github.com/AnaMariaVoineag/Netflix-Clone)
+- 🔭 I’m currently working on [Netflix-Clone](https://github.com/AnaMariaVoineag/Netflix-Clone);
 
-- 🧠 I’m currently learning **Angular**
+- 🧠 I’m currently learning **Angular**;
 
 - ⚡  My next step is **React**;
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/AnaMariaVoineag/)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/AnaMariaVoineag/);
 
-- 📫 How to reach me **mariaamv007@gmail.com**
+- 📫 How to reach me **mariaamv007@gmail.com**;
 
-- ✨ Fun fact **I edit photos from childhood movies and cartoons**
+- ✨ Fun fact **I edit photos from childhood movies and cartoons**;
 
 ## 🌐 Connect with me:
 <p align="left">
