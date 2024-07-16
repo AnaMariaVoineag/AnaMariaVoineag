@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/AnaMariaVoineag/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Angular, Unity, C#, C++, Java**
-
 - 📫 How to reach me **mariaamv007@gmail.com**
 
 - ✨ Fun fact **I edit photos from childhood movies and cartoons**
