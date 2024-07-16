@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/AnaMariaVoineag/)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/AnaMariaVoineag/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Angular, Unity, C#, C++ Java**
 
