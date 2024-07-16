@@ -8,15 +8,17 @@
 
 - 🔭 I’m currently working on [Netflix-Clone](https://github.com/AnaMariaVoineag/Netflix-Clone)
 
-- 🌱 I’m currently learning **Angular**
+- 🧠 I’m currently learning **Angular**
+
+- ⚡  My next step is **React**;
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/AnaMariaVoineag/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Angular, Unity, C#, C++ Java**
+- 💬 Ask me about **HTML, CSS, JavaScript, Angular, Unity, C#, C++, Java**
 
 - 📫 How to reach me **mariaamv007@gmail.com**
 
-- ⚡ Fun fact **I edit photos from childhood movies and cartoons**
+- ✨ Fun fact **I edit photos from childhood movies and cartoons**
 
 ## 🌐 Connect with me:
 <p align="left">
