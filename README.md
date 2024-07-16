@@ -18,7 +18,13 @@
 
 - ⚡ Fun fact **I edit photos from childhood movies and cartoons**
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/ana-voineag-85a37423b/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+</p>
+
 <p align="left">
 </p>
 
