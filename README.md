@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Pong-Game](https://github.com/AnaMariaVoineag/Pong-Game);
 
-- 🧠 I’m currently learning **Angular**;
+- 🧠 I’m currently learning **React**;
 
-- ⚡  My next step is **React**;
+- ⚡  My next step is **NextJS**;
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/AnaMariaVoineag/);
 
