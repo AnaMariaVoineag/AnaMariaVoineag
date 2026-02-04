@@ -10,7 +10,7 @@
 
 - 🧠 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnaMariaVoineag/](https://github.com/AnaMariaVoineag/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AnaMariaVoineag/)
 
 - ⚡ My next step is **NextJS**
 
