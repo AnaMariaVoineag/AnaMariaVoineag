@@ -6,7 +6,7 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
-- 🔭 I’m currently working on [Pong-Game](https://github.com/AnaMariaVoineag/Pong-Game);
+- 🔭 I’m currently working on [Tay-Do](https://github.com/AnaMariaVoineag/Tay-Do);
 
 - 🧠 I’m currently learning **React**;
 
