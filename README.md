@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Tay-Do](https://github.com/AnaMariaVoineag/Tay-Do);
 
-- 🧠 I’m currently learning **React**;
+- 🧠 I’m currently learning **Unity**;
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AnaMariaVoineag/);
 
